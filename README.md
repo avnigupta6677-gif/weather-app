@@ -14,6 +14,13 @@ A simple weather application built using HTML, CSS, and JavaScript. It uses Open
 - JavaScript
 - OpenWeatherMap API
 
+- ## Project structure
+├── index.html      # Main webpage structure
+├── style.css       # UI design and styling
+├── script.js       # Weather API logic (JavaScript)
+└── README.md       # Project description for GitHub
+
+
 ## How to Use
 1. Enter city name
 2. Click search
