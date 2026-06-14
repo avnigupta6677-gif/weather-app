@@ -13,8 +13,8 @@ A simple weather application built using HTML, CSS, and JavaScript. It uses Open
 - CSS
 - JavaScript
 - OpenWeatherMap API
-
-- ## Project structure
+  
+## Project structure
 ├── index.html      # Main webpage structure
 ├── style.css       # UI design and styling
 ├── script.js       # Weather API logic (JavaScript)
